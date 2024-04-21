@@ -1,0 +1,27 @@
+D:\Projects\Tuto\AppSolution\Business\bin\Debug\net6.0\Business.deps.json
+D:\Projects\Tuto\AppSolution\Business\bin\Debug\net6.0\Business.dll
+D:\Projects\Tuto\AppSolution\Business\bin\Debug\net6.0\Business.pdb
+D:\Projects\Tuto\AppSolution\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tuto\AppSolution\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Projects\Tuto\AppSolution\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Projects\Tuto\AppSolution\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Projects\Tuto\AppSolution\Business\obj\Debug\net6.0\Business.dll
+D:\Projects\Tuto\AppSolution\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Projects\Tuto\AppSolution\Business\obj\Debug\net6.0\Business.pdb
+D:\Projects\Tuto\AppSolution\Business\obj\Debug\net6.0\ref\Business.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\bin\Debug\net6.0\Business.deps.json
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\bin\Debug\net6.0\Business.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\bin\Debug\net6.0\Business.pdb
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\bin\Debug\net6.0\DomainLayer.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\bin\Debug\net6.0\DomainLayer.pdb
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\bin\Debug\net6.0\DomainLayer.xml
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\obj\Debug\net6.0\Business.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\obj\Debug\net6.0\Business.pdb
+D:\Projects\Tuto\Folder for Dev\AppSolution\Business\obj\Debug\net6.0\ref\Business.dll

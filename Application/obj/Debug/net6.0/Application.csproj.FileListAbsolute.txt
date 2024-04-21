@@ -1,0 +1,122 @@
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\appsettings.json
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\Application.exe
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\Application.deps.json
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\Application.dll
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\Application.pdb
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\NJsonSchema.dll
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\NSwag.Core.dll
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\NSwag.Generation.dll
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\Projects\Tuto\AppSolution\Application\bin\Debug\net6.0\YamlDotNet.dll
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\staticwebassets\msbuild.build.Application.props
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Application.props
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\scopedcss\bundle\Application.styles.css
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\Application.dll
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\refint\Application.dll
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\Application.pdb
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+D:\Projects\Tuto\AppSolution\Application\obj\Debug\net6.0\ref\Application.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\appsettings.json
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Application.exe
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Application.deps.json
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Application.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Application.pdb
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Humanizer.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\NJsonSchema.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\NSwag.Core.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\NSwag.Generation.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\YamlDotNet.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\DomainLayer.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\DataAccessLayer.xml
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\DomainLayer.pdb
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\DomainLayer.xml
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\staticwebassets\msbuild.build.Application.props
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Application.props
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\scopedcss\bundle\Application.styles.css
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\Application.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\refint\Application.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\Application.pdb
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\obj\Debug\net6.0\ref\Application.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\BusinessLayer.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\Application\bin\Debug\net6.0\BusinessLayer.pdb

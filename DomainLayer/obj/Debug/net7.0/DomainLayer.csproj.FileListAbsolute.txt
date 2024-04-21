@@ -1,0 +1,13 @@
+D:\Projects\Tuto\Folder for Dev\AppSolution\DomainLayer\obj\Debug\net7.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tuto\Folder for Dev\AppSolution\DomainLayer\obj\Debug\net7.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Projects\Tuto\Folder for Dev\AppSolution\DomainLayer\obj\Debug\net7.0\DomainLayer.AssemblyInfo.cs
+D:\Projects\Tuto\Folder for Dev\AppSolution\DomainLayer\obj\Debug\net7.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Projects\Tuto\Folder for Dev\AppSolution\DomainLayer\bin\Debug\net7.0\DomainLayer.deps.json
+D:\Projects\Tuto\Folder for Dev\AppSolution\DomainLayer\bin\Debug\net7.0\DomainLayer.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\DomainLayer\bin\Debug\net7.0\DomainLayer.pdb
+D:\Projects\Tuto\Folder for Dev\AppSolution\DomainLayer\bin\Debug\net7.0\DomainLayer.xml
+D:\Projects\Tuto\Folder for Dev\AppSolution\DomainLayer\obj\Debug\net7.0\DomainLayer.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\DomainLayer\obj\Debug\net7.0\refint\DomainLayer.dll
+D:\Projects\Tuto\Folder for Dev\AppSolution\DomainLayer\obj\Debug\net7.0\DomainLayer.xml
+D:\Projects\Tuto\Folder for Dev\AppSolution\DomainLayer\obj\Debug\net7.0\DomainLayer.pdb
+D:\Projects\Tuto\Folder for Dev\AppSolution\DomainLayer\obj\Debug\net7.0\ref\DomainLayer.dll

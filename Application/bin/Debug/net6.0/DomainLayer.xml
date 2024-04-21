@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DomainLayer</name>
+    </assembly>
+    <members>
+        <member name="T:DomainLayer.ExceptionsCustom.ErreurValidationException">
+            <summary>
+            Représente une règle de gestion non satisfaite.
+            </summary>
+        </member>
+        <member name="M:DomainLayer.IRepositories.IRepository`1.ViderContext">
+            <summary>
+             Vide le Contexte Entity Framework.
+             Par exemple, s'il y'a une entité modifiée et non encore persistée dans la BD, quand on appelle cette méthode, elle va supprimér les changements effectués sur l'unité du contexte.
+             Donc quand on appelle Enregistrer(), aucune modification ne sera appliquée dans la BD.
+            </summary>
+        </member>
+    </members>
+</doc>

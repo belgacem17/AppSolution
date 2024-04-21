@@ -1,0 +1,6 @@
+{
+  "ApplicationLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projects\\Tuto\\Folder for Dev\\AppSolution\\Application",
+  "BusinessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projects\\Tuto\\Folder for Dev\\AppSolution\\Business",
+  "DataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projects\\Tuto\\Folder for Dev\\AppSolution\\DataAccessLayer",
+  "DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projects\\Tuto\\Folder for Dev\\AppSolution\\DomainLayer"
+}

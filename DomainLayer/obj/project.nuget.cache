@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXl4Vt3aIjMH81luUs9AA2akLwfHBBPhNfEjiiuzMTv+ZjYobp/5Fj8Lgq1dcK/41nSWr9mAdruqR0MCKQE9Qg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Tuto\\Folder for Dev\\AppSolution\\DomainLayer\\DomainLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aymen.belgacem\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.507\\stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512"
+  ],
+  "logs": []
+}
